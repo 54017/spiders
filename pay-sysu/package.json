@@ -1,0 +1,19 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "spider",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "spider"
+  ],
+  "author": "o17",
+  "license": "MIT",
+  "devDependencies": {
+    "gm": "^1.22.0",
+    "node-tesseract": "^0.2.7"
+  }
+}
