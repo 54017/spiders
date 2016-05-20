@@ -6,9 +6,9 @@
 	const https = require('https');
 
 	let config = {
-		studentNumber: 13331129,
-		password: 170014,
-		maxNumberTotal: 1000
+		studentNumber: ,
+		password: ,
+		maxNumberTotal: 1000 //需要设置一年消费次数的上限
 	};
 
 	let monthArray = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12'];
